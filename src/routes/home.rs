@@ -427,7 +427,7 @@ pub fn Home() -> Element {
                                         "There aint no backdoor"
                                     }
                                     p {
-                                        class: "text-sm text-[var(--ctp-subtext0)]",
+                                        class: "text-sm text-[var(--ctp-subtext1)]",
                                         "RSA and quantum resistant encryption."
                                         br {  }
                                         "Also, you hold the keys"
@@ -451,7 +451,7 @@ pub fn Home() -> Element {
                                         "BLAZINGLY Fast"
                                     }
                                     p {
-                                        class: "text-sm text-[var(--ctp-subtext0)]",
+                                        class: "text-sm text-[var(--ctp-subtext1)]",
                                         "Written in Rust, so it's fast as fuck"
                                         br {  }
                                         "- ThePrimeagen, probably"
@@ -475,7 +475,7 @@ pub fn Home() -> Element {
                                         "YouPrivacy"
                                     }
                                     p {
-                                        class: "text-sm text-[var(--ctp-subtext0)]",
+                                        class: "text-sm text-[var(--ctp-subtext1)]",
                                         "As long as you don't go around sharing your keys, you're good."
                                     }
                                 }
